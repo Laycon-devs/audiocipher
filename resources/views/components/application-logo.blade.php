@@ -1,0 +1,1 @@
+<img src="{{asset('images/audiocipher.png')}}" alt="audiocipher_logo" style="width: 50px;">
